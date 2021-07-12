@@ -27,6 +27,5 @@ public:
 private:
 	int health;
 	string name;
-
 };
 
