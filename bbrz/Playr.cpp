@@ -8,7 +8,9 @@ Playr::Playr(string n) {
 }
 Playr::Playr()
 {
+	cout << "Player ohne name erstellt\n";
 	health = 100;
+	name = "";
 }
 
 void Playr::printHealth()
