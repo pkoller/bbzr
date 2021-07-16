@@ -149,11 +149,11 @@
   <ItemGroup>
     <ClCompile Include="bbrz.cpp" />
     <ClCompile Include="Playr.cpp" />
-    <ClCompile Include="Weapon.cpp" />
+    <ClCompile Include="Items.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Playr.h" />
-    <ClInclude Include="Weapon.h" />
+    <ClInclude Include="Items.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
