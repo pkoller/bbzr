@@ -5,12 +5,6 @@
 using namespace std;
 
 
-class Item
-{
-public:
-	int energy;
-};
-
 class Playr
 {
 public:
